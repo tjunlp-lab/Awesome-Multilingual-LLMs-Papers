@@ -18,4 +18,24 @@ This repository contains list of papers according to [our survey](https://arxiv.
     <img src="./assets/fig.png" style="zoom:30%"/>
 </div>
 
-Contents will be updated soon. Stay tune!
+## Papers
+
+### Multilingual Evaluation
+
+#### Tokenizer Evaluation
+
+1. **"How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models"**. 
+   
+    *Phillip Rust et al.* ACL-IJCNLP 2021. [[Paper](https://aclanthology.org/2021.acl-long.243.pdf)] [[GitHub]([https://github.com/HITSCIR-DT-Code/Core-Competency-Test-for-the-Evaluation-of-LLMs](https://github.com/Adapter-Hub/hgiyt))] 
+   
+2. **"ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models"**. 
+
+    *Linting Xue et al.* TACL 2023. [[Paper](https://aclanthology.org/2022.tacl-1.17.pdf)] [[GitHub](https://github.com/google-research/byt5)]
+
+3. **"Language Model Tokenizers Introduce Unfairness Between Languages"**. 
+
+    *Aleksandar Petrov et al.* TACL 2023. [[Paper](https://arxiv.org/pdf/2305.15425)] [[GitHub](https://github.com/AleksandarPetrov/tokenization-fairness)]
+
+4. **"Tokenizer Choice For LLM Training: Negligible or Crucial?"**. 
+
+    *Mehdi Ali et al.* NAACL 2024. [[Paper](https://aclanthology.org/2024.findings-naacl.247.pdf)]
