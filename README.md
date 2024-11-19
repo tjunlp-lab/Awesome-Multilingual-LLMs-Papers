@@ -26,7 +26,7 @@ This repository contains list of papers according to [our survey](https://arxiv.
 
 1. **"How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models"**. 
    
-    *Phillip Rust et al.* ACL-IJCNLP 2021. [[Paper](https://aclanthology.org/2021.acl-long.243.pdf)] [[GitHub]([https://github.com/HITSCIR-DT-Code/Core-Competency-Test-for-the-Evaluation-of-LLMs](https://github.com/Adapter-Hub/hgiyt))] 
+    *Phillip Rust et al.* ACL-IJCNLP 2021. [[Paper](https://aclanthology.org/2021.acl-long.243.pdf)] [[GitHub](https://github.com/Adapter-Hub/hgiyt)] 
    
 2. **"ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models"**. 
 
