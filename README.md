@@ -34,8 +34,25 @@ This repository contains list of papers according to [our survey](https://arxiv.
 
 3. **"Language Model Tokenizers Introduce Unfairness Between Languages"**. 
 
-    *Aleksandar Petrov et al.* TACL 2023. [[Paper](https://arxiv.org/pdf/2305.15425)] [[GitHub](https://github.com/AleksandarPetrov/tokenization-fairness)]
+    *Aleksandar Petrov et al.* NeurIPS 2023. [[Paper](https://arxiv.org/pdf/2305.15425)] [[GitHub](https://github.com/AleksandarPetrov/tokenization-fairness)]
 
 4. **"Tokenizer Choice For LLM Training: Negligible or Crucial?"**. 
 
-    *Mehdi Ali et al.* NAACL 2024. [[Paper](https://aclanthology.org/2024.findings-naacl.247.pdf)]
+    *Mehdi Ali et al.* NAACL (findings) 2024. [[Paper](https://aclanthology.org/2024.findings-naacl.247.pdf)]
+
+#### Multilingual Evaluation Benchmarks and Datasets
+
+##### Multilingual Holistic Evaluation
+
+1. **"MEGA: Multilingual Evaluation of Generative AI"**. 
+   
+    *Kabir Ahuja et al.* EMNLP 2023. [[Paper](https://aclanthology.org/2023.emnlp-main.258.pdf)] [[GitHub](https://github.com/microsoft/Multilingual-Evaluation-of-Generative-AI-MEGA)] 
+   
+2. **"MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks"**. 
+
+   *Kabir Ahuja et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2311.07463)]
+
+3. **"ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models"**. 
+
+    *Viet Dac Lai et al.* EMNLP (Findings) 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.878.pdf)]
+##### Multilingual Task-Specific Evaluation
