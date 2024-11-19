@@ -1,8 +1,8 @@
 ﻿# Awesome-Multilingual-LLMs-Papers
 
-This repository contains list of papers according [our survey](https://arxiv.org/pdf/2310.19736.pdf):
+This repository contains list of papers according to [our survey](https://arxiv.org/pdf/2310.19736.pdf):
 
-<p align="center"><strong>Evaluating Large Language Models: A Comprehensive Survey</strong></p>
+<p align="center"><strong>Multilingual Large Language Models: A Systematic Survey</strong></p>
 
 <p align="center">Shaolin Zhu<sup>1</sup>,   Supryadi<sup>1</sup>,   Shaoyang Xu<sup>1</sup>,   Haoran Sun<sup>1</sup>,   Leiyu Pan<sup>1</sup>,   Menglong Cui<sup>1</sup>, </p>
 
