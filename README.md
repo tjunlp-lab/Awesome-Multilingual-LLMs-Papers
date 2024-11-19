@@ -4,18 +4,18 @@ This repository contains list of papers according [our survey](https://arxiv.org
 
 <p align="center"><strong>Evaluating Large Language Models: A Comprehensive Survey</strong></p>
 
-<p align="center">Shaolin Zhu^1,   Supryadi^1,   Shaoyang Xu^1,   Haoran Sun^1,   Leiyu Pan^1,   Menglong Cui^1, </p>
+<p align="center">Shaolin Zhu<sup>1</sup>,   Supryadi<sup>1</sup>,   Shaoyang Xu<sup>1</sup>,   Haoran Sun<sup>1</sup>,   Leiyu Pan<sup>1</sup>,   Menglong Cui<sup>1</sup>, </p>
 
-<p align="center">Jiangcun Du^1,   Renren Jin^1,   António Branco^2†,   Deyi Xiong^1†*</p>
+<p align="center">Jiangcun Du<sup>1</sup>,   Renren Jin<sup>1</sup>,   António Branco<sup>2</sup>†,   Deyi Xiong<sup>1</sup>†*</p>
 
-<p align="center">^1TJUNLP Lab, College of Intelligence and Computing, Tianjin University</p>
+<p align="center"><sup>1</sup>TJUNLP Lab, College of Intelligence and Computing, Tianjin University</p>
 
-<p align="center">^2NLX, Department of Informatics, University of Lisbon</p>
+<p align="center"><sup>2</sup>NLX, Department of Informatics, University of Lisbon</p>
 
 <p align="center">(*: Corresponding author, †: Advisory role)</p>
 
 <div align=center>
-    <img src="./assets/fig1.png" style="zoom:30%"/>
+    <img src="./assets/fig.png" style="zoom:30%"/>
 </div>
 
 Contents will be updated soon. Stay tune!
