@@ -38,7 +38,7 @@ This repository contains list of papers according to [our survey](https://arxiv.
 
 4. **"Tokenizer Choice For LLM Training: Negligible or Crucial?"**. 
 
-    *Mehdi Ali et al.* NAACL (findings) 2024. [[Paper](https://aclanthology.org/2024.findings-naacl.247.pdf)]
+    *Mehdi Ali et al.* NAACL (Findings) 2024. [[Paper](https://aclanthology.org/2024.findings-naacl.247.pdf)]
 
 #### Multilingual Evaluation Benchmarks and Datasets
 
