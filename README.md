@@ -156,3 +156,142 @@ This repository contains list of papers according to [our survey](https://arxiv.
    
     *Rishav Hada and Varun Gumma et al.* NAACL (Findings) 2024. [[Paper](https://aclanthology.org/2024.findings-naacl.148.pdf)] [[GitHub](https://github.com/microsoft/METAL-Towards-Multilingual-Meta-Evaluation)] 
 
+## Interpretability
+
+### Interpretability of Multilingual Capabilities
+
+#### Model-Wide Interpretation
+
+1. "How do Large Language Models Handle Multilingualism?".
+   
+   Zhao Y, Zhang W, Chen G, et al. arXiv 2024. [[Paper](https://arxiv.org/abs/2402.18815)]
+
+2. "Do Llamas Work in English? On the Latent Language of Multilingual Transformers".
+   
+   Wendler C, Veselovsky V, Monea G, et al. ACL 2024. [[Paper](https://arxiv.org/abs/2402.10588)]
+
+3. "Analyzing the Mono- and Cross-Lingual Pretraining Dynamics of Multilingual Language Models".
+   
+   Blevins T, Gonen H, Zettlemoyer L. EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.234/)]
+
+#### Component-Based Interpretation
+
+1. "Unveiling Multilinguality in Transformer Models: Exploring Language Specificity in Feed-Forward Networks".
+   
+   Bhattacharya S, Bojar O. Proceedings of the 6th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP 2023. [[Paper](https://aclanthology.org/2023.blackboxnlp-1.9/)]
+
+#### Neuron-Level Interpretation
+
+1. "Unveiling Linguistic Regions in Large Language Models".
+   
+   Zhang Z, Zhao J, Zhang Q, et al. ACL 2024. [[Paper](https://arxiv.org/abs/2402.14700)]
+
+2. "Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models".
+   
+   Tang T, Luo W, Huang H, et al. ACL 2024. [[Paper](https://arxiv.org/abs/2402.16438)]
+
+3. "Unraveling Babel: Exploring Multilingual Activation Patterns of LLMs and Their Applications".
+   
+   Liu W, Xu Y, Xu H, et al. EMNLP 2024. [[Paper](https://arxiv.org/abs/2402.16367)]
+
+4. "On the Multilingual Ability of Decoder-based Pre-trained Language Models: Finding and Controlling Language-Specific Neurons".
+   
+   Kojima T, Okimura I, Iwasawa Y, et al. NAACL 2024. [[Paper](https://arxiv.org/abs/2404.02431)]
+
+#### Representation-Driven Interpretation
+
+1. "The Geometry of Multilingual Language Model Representations".
+   
+   Chang T, Tu Z, Bergen B. EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.9/)]
+
+2. "Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation".
+   
+   Tiyajamorn N, Kajiwara T, Arase Y, et al. EMNLP 2021. [[Paper](https://aclanthology.org/2021.emnlp-main.612/)]
+
+3. "An Isotropy Analysis in the Multilingual BERT Embedding Space".
+   
+   Rajaee S, Pilehvar M T. ACL 2022. [[Paper](https://aclanthology.org/2022.findings-acl.103/)]
+
+4. "Discovering Low-rank Subspaces for Language-agnostic Multilingual Representations".
+   
+   Xie Z, Zhao H, Yu T, et al. EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.379/)]
+
+5. "Emerging Cross-lingual Structure in Pretrained Language Models".
+   
+   Conneau A, Wu S, Li H, et al. ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.536/)]
+
+6. "Probing LLMs for Joint Encoding of Linguistic Categories".
+   
+   Starace G, Papakostas K, Choenni R, et al. EMNLP 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.476/)]
+
+7. "Morph Call: Probing Morphosyntactic Content of Multilingual Transformers".
+   
+   Mikhailov V, Serikov O, Artemova E. Proceedings of the Third Workshop on Computational Typology and Multilingual NLP 2021. [[Paper](https://arxiv.org/abs/2104.12847)]
+
+8. "Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models".
+   
+   Stanczak K, Ponti E, Hennigen L T, et al. NAACL 2022. [[Paper](https://aclanthology.org/2022.naacl-main.114/)]
+
+9. "Probing Cross-Lingual Lexical Knowledge from Multilingual Sentence Encoders".
+   
+   Vulić I, Glavaš G, Liu F, et al. EACL 2023. [[Paper](https://aclanthology.org/2023.eacl-main.153/)]
+
+10. "The Emergence of Semantic Units in Massively Multilingual Models".
+    
+    de Varda A G, Marelli M. LREC-COLING 2024. [[Paper](https://aclanthology.org/2024.lrec-main.1382/)]
+
+11. "X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models".
+    
+    Jiang Z, Anastasopoulos A, Araki J, et al. EMNLP 2020. [[Paper](https://aclanthology.org/2020.emnlp-main.479/)]
+
+12. "Multilingual LAMA: Investigating Knowledge in Multilingual Pretrained Language Models".
+    
+    Kassner N, Dufter P, Schütze H. EACL 2021. [[Paper](https://aclanthology.org/2021.eacl-main.284/)]
+
+13. "Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models".
+    
+    Qi J, Fernández R, Bisazza A. EMNLP 2023. [[Paper](https://aclanthology.org/2023.emnlp-main.658/)]
+
+14. "Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?".
+    
+    Xu S, Li J, Xiong D. EMNLP 2023. [[Paper](https://aclanthology.org/2023.emnlp-main.226/)]
+
+### Interpretability of Cross-lingual Transfer
+
+1. "Are Structural Concepts Universal in Transformer Language Models? Towards Interpretable Cross-Lingual Generalization"
+   
+   Xu N, Zhang Q, Ye J, et al. EMNLP 2023. [[Paper](https://aclanthology.org/2023.findings-emnlp.931/)]
+
+2. "When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer".
+   
+   Deshpande A, Talukdar P, Narasimhan K. NACCL 2022. [[Paper](https://aclanthology.org/2022.naacl-main.264/)]
+
+3. "Emerging Cross-lingual Structure in Pretrained Language Models".
+   
+   Conneau A, Wu S, Li H, et al. ACL 2020. [[Paper](https://aclanthology.org/2020.acl-main.536/)]
+
+4. "Cross-Lingual Ability of Multilingual BERT: An Empirical Study".
+   
+   Karthikeyan K, Wang Z, Mayhew S, et al. ICLR 2020. [[Paper](https://arxiv.org/abs/1912.07840)]
+
+5. "Unveiling Linguistic Regions in Large Language Models".
+   
+   Zhang Z, Zhao J, Zhang Q, et al. ACL 2024. [[Paper](https://arxiv.org/abs/2402.14700)]
+
+6. "Unraveling Babel: Exploring Multilingual Activation Patterns of LLMs and Their Applications".
+   
+   Liu W, Xu Y, Xu H, et al. EMNLP 2024. [[Paper](https://arxiv.org/abs/2402.16367)]
+
+7. "The Geometry of Multilingual Language Model Representations".
+   
+   Chang T, Tu Z, Bergen B. EMNLP 2022. [[Paper](https://aclanthology.org/2022.emnlp-main.9/)]
+
+### Interpretability of Linguistic Bias
+
+1. "How do Large Language Models Handle Multilingualism?".
+   
+   Zhao Y, Zhang W, Chen G, et al. arXiv 2024. [[Paper](https://arxiv.org/abs/2402.18815)]
+
+2. "Do Llamas Work in English? On the Latent Language of Multilingual Transformers".
+   
+   Wendler C, Veselovsky V, Monea G, et al. ACL 2024. [[Paper](https://arxiv.org/abs/2402.10588)]
