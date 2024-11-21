@@ -20,6 +20,139 @@ This repository contains list of papers according to [our survey](https://arxiv.
 
 ## Papers
 
+### Multilingual Tuning
+
+#### Basic Tuning Strategies
+
+##### Instruction Tuning
+
+1. **"Finetuned Language Models Are Zero-Shot Learners"**. 
+   
+    *Jason Wei et al.* ICLR 2022. [[Paper](https://arxiv.org/abs/2109.01652)] [[GitHub](https://github.com/google-research/flan)] 
+
+2. **"Multitask Prompted Training Enables Zero-Shot Task Generalization"**. 
+   
+    *Victor Sanh et al.* ICLR 2022. [[Paper](https://arxiv.org/abs/2110.08207)] [[GitHub](https://github.com/bigscience-workshop/t-zero)] 
+
+3. **"Training language models to follow instructions with human feedback"**. 
+   
+    *Long Ouyang et al.* NeurIPS 2022. [[Paper](https://arxiv.org/abs/2203.02155)] [[GitHub](https://github.com/openai/following-instructions-human-feedback)] 
+
+4. **"Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"**. 
+   
+    *Yuntao Bai et al.* arXiv 2022. [[Paper](https://arxiv.org/abs/2204.05862)]
+
+5. **"A General Language Assistant as a Laboratory for Alignment"**. 
+   
+    *Amanda Askell et al.* arXiv 2021. [[Paper](https://arxiv.org/abs/2112.00861)]
+
+6. **"Self-Instruct: Aligning Language Models with Self-Generated Instructions"**. 
+   
+    *Yizhong Wang et al.* ACL 2023. [[Paper](https://arxiv.org/abs/2212.10560)] [[GitHub](https://github.com/yizhongw/self-instruct)] 
+
+7. **"WizardLM: Empowering Large Language Models to Follow Complex Instructions"**. 
+   
+    *Can Xu et al.* ICLR 2024. [[Paper](https://arxiv.org/abs/2304.12244)] [[GitHub](https://github.com/nlpxucan/WizardLM)] 
+
+8. **"WizardCoder: Empowering Code Large Language Models with Evol-Instruct"**. 
+   
+    *Ziyang Luo et al.* ICLR 2024. [[Paper](https://arxiv.org/abs/2306.08568)] [[GitHub](https://github.com/nlpxucan/WizardLM)] 
+
+9. **"Self-Alignment with Instruction Backtranslation"**. 
+   
+    *Xian Li et al.* ICLR 2024. [[Paper](https://arxiv.org/abs/2308.06259)]
+
+10. **"Instruction Tuning With Loss Over Instructions"**. 
+   
+    *Zhengyan Shi et al.* NeurIPS 2024. [[Paper](https://arxiv.org/abs/2405.14394)] [[GitHub](https://github.com/ZhengxiangShi/InstructionModelling)] 
+
+11. **"Instruction Fine-Tuning: Does Prompt Loss Matter?"**. 
+   
+    *Mathew Huerta-Enochian et al.* EMNLP 2024. [[Paper](https://arxiv.org/abs/2401.13586)]
+
+12. **"Instruction Tuning for Large Language Models: A Survey"**. 
+   
+    *Shengyu Zhang et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2308.10792)] [[GitHub](https://github.com/xiaoya-li/Instruction-Tuning-Survey)] 
+   
+
+##### Preference Tuning
+
+1. **"Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"**. 
+   
+    *Yuntao Bai et al.* arXiv 2022. [[Paper](https://arxiv.org/abs/2204.05862)]
+
+2. **"Training language models to follow instructions with human feedback"**. 
+   
+    *Long Ouyang et al.* NeurIPS 2022. [[Paper](https://arxiv.org/abs/2203.02155)] [[GitHub](https://github.com/openai/following-instructions-human-feedback)] 
+
+3. **"Fine-Tuning Language Models from Human Preferences"**. 
+   
+    *Daniel M. Ziegler et al.* arXiv 2019. [[Paper](https://arxiv.org/abs/1909.08593)] [[GitHub](https://github.com/openai/lm-human-preferences)] 
+
+4. **"Learning to summarize from human feedback"**. 
+   
+    *Nisan Stiennon et al.* NeurIPS 2022. [[Paper](https://arxiv.org/abs/2009.01325)] [[GitHub](https://github.com/openai/summarize-from-feedback)] 
+
+5. **"WebGPT: Browser-assisted question-answering with human feedback"**. 
+   
+    *Reiichiro Nakano et al.* arXiv 2021. [[Paper](https://arxiv.org/abs/2112.09332)]
+
+6. **"Training language models to follow instructions with human feedback"**. 
+   
+    *Long Ouyang et al.* NeurIPS 2022. [[Paper](https://arxiv.org/abs/2203.02155)] [[GitHub](https://github.com/openai/following-instructions-human-feedback)] 
+
+7. **"Direct Preference Optimization: Your Language Model is Secretly a Reward Model"**. 
+   
+    *Rafael Rafailov et al.* NeurIPS 2023. [[Paper](https://arxiv.org/abs/2305.18290)]
+
+8. **"Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons"**. 
+   
+    *Ralph Allan Bradley and Milton E. Terry* Biometrika 1952. [[Paper](https://www.jstor.org/stable/2334029?origin=crossref)]
+
+9. **"The Impact of Preference Agreement in Reinforcement Learning from Human Feedback: A Case Study in Summarization"**. 
+   
+    *Sian Gooding and Hassan Mansoor* arXiv 2023. [[Paper](https://arxiv.org/abs/2311.04919)]
+
+10. **"Understanding the Effects of RLHF on LLM Generalisation and Diversity"**. 
+   
+    *Robert Kirk et al.* ICLR 2024. [[Paper](https://arxiv.org/abs/2310.06452)] [[GitHub](https://github.com/facebookresearch/rlfh-gen-div)] 
+
+11. **"Proximal Policy Optimization Algorithms"**. 
+   
+    *John Schulman et al.* arXiv 2017. [[Paper](https://arxiv.org/abs/1707.06347)]
+
+12. **"A General Theoretical Paradigm to Understand Learning from Human Preferences"**. 
+   
+    *Mohammad Gheshlaghi Azar et al.* AISTATS 2024. [[Paper](https://arxiv.org/abs/2310.12036)]
+
+13. **"Preference Ranking Optimization for Human Alignment"**. 
+   
+    *Feifan Song et al.* AAAI 2024. [[Paper](https://arxiv.org/abs/2306.17492)] [[GitHub](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)] 
+
+14. **"RRHF: Rank Responses to Align Language Models with Human Feedback without tears"**. 
+   
+    *Zheng Yuan et al.* NeurIPS 2023. [[Paper](https://arxiv.org/abs/2304.05302)] [[GitHub](https://github.com/GanjinZero/RRHF)] 
+
+15. **"KTO: Model Alignment as Prospect Theoretic Optimization"**. 
+   
+    *Kawin Ethayarajh et al.* ICML 2024. [[Paper](https://arxiv.org/abs/2402.01306)]
+
+16. **"SLiC-HF: Sequence Likelihood Calibration with Human Feedback"**. 
+   
+    *Yao Zhao et al.* arXiv 2023. [[Paper](https://arxiv.org/abs/2305.10425)]
+
+17. **"β-DPO: Direct Preference Optimization with Dynamic β"**. 
+   
+    *Junkang Wu et al.* NeurIPS 2024. [[Paper](https://arxiv.org/abs/2407.08639)] [[GitHub](https://github.com/junkangwu/beta-DPO)] 
+
+18. **"SimPO: Simple Preference Optimization with a Reference-Free Reward"**. 
+   
+    *Yu Meng et al.* NeurIPS 2024. [[Paper](https://arxiv.org/abs/2405.14734)] [[GitHub](https://github.com/princeton-nlp/SimPO)] 
+
+19. **"Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint"**. 
+   
+    *Wei Xiong et al.* ICML 2024. [[Paper](https://arxiv.org/pdf/2312.11456)]
+
 ### Multilingual Evaluation
 
 #### Tokenizer Evaluation
@@ -264,7 +397,7 @@ This repository contains list of papers according to [our survey](https://arxiv.
 
 2. "When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer".
    
-   Deshpande A, Talukdar P, Narasimhan K. NACCL 2022. [[Paper](https://aclanthology.org/2022.naacl-main.264/)]
+   Deshpande A, Talukdar P, Narasimhan K. NAACL 2022. [[Paper](https://aclanthology.org/2022.naacl-main.264/)]
 
 3. "Emerging Cross-lingual Structure in Pretrained Language Models".
    
