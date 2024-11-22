@@ -210,6 +210,266 @@ This repository contains list of papers according to [our survey](https://arxiv.
    
     *Wei Xiong et al.* ICML 2024. [[Paper](https://arxiv.org/pdf/2312.11456)]
 
+#### Direct Multilingual Tuning
+    
+#####  Multilingual Tuning Data Collection
+    
+1. "**Crosslingual Generalization through Multitask Finetuning**".
+    
+    *Niklas Muennighoff et al.* ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.891.pdf)] [[Github](https://github.com/bigscience-workshop/xmtf)]
+      
+2. "**Bactrian-X: A Multilingual Replicable Instruction-Following Model with Low-Rank Adaptation**".
+    
+    *Haonan Li et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2305.15011)] [[Github](https://github.com/mbzuai-nlp/bactrian-x)]
+       
+3. "**Phoenix: Democratizing ChatGPT across Languages**".
+    
+    *Zhihong Chen et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2304.10453)] [[Github](https://github.com/FreedomIntelligence/LLMZoo)]
+       
+4. "**PolyLM: An Open Source Polyglot Large Language Model**".
+    
+    *Xiangpeng Wei et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2307.06018)] [[Github](https://github.com/DAMO-NLP-MT/PolyLM)]
+       
+5. "**SeaLLMs -- Large Language Models for Southeast Asia**".
+    
+    *Xuan-Phi Nguyen et al.* ACL 2024 DEMO TRACK. [[Paper](https://arxiv.org/pdf/2312.00738)] [[Github](https://github.com/DAMO-NLP-SG/SeaLLMs)]
+       
+6. "**Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model**".
+    
+    *Ahmet Üstün et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.07827)] [[Huggingface](https://huggingface.co/CohereForAI/aya-101)]
+       
+7. "**Okapi: Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback**".
+    
+    *Viet Dac Lai et al.* EMNLP 2023 DEMO TRACK. [[Paper](https://aclanthology.org/2023.emnlp-demo.28.pdf)] [[Github](https://github.com/nlp-uoregon/Okapi)]
+    
+##### Cross-Lingual Transfer Elicitation
+    
+1. "**Multilingual Instruction Tuning With Just a Pinch of Multilinguality**".
+    
+    *Uri Shaham et al.* ACL 2024 Findings. [[Paper](https://arxiv.org/pdf/2401.01854)]
+       
+2. "**Zero-shot cross-lingual transfer in instruction tuning of large language models**".
+    
+    *Nadezhda Chirkova et al.* INLG 2024. [[Paper](https://arxiv.org/pdf/2402.14778)]
+       
+3. "**Monolingual or Multilingual Instruction Tuning: Which Makes a Better Alpaca**".
+    
+    *Pinzhen Chen et al.* EACL 2024 Findings. [[Paper](https://arxiv.org/pdf/2309.08958)] [[Github](https://github.com/hplt-project/monolingual-multilingual-instruction-tuning)]
+    
+4. "**Investigating Multilingual Instruction-Tuning: Do Polyglot Models Demand for Multilingual Instructions?**".
+    
+    *Alexander Arno Weber et al.* EMNLP 2024. [[Paper](https://arxiv.org/pdf/2402.13703)] [[Github](https://github.com/Modalities/MT-Bench-X)]
+       
+5. "**Turning English-centric LLMs Into Polyglots: How Much Multilinguality Is Needed?**".
+    
+    *Tannon Kew et al.* EMNLP 2024 Findings. [[Paper](https://arxiv.org/pdf/2312.12683)] [[Github](https://github.com/ZurichNLP/multilingual-instruction-tuning)]
+       
+6. "**Lucky 52: How Many Languages Are Needed to Instruction Fine-Tune Large Language Models?**".
+    
+    *Shaoxiong Ji et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2404.04850)] [[Huggingface](https://huggingface.co/collections/MaLA-LM/lucky52-660e5fd24a2ced4b334d63d6)
+       
+7. "**Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual Alignment**".
+    
+    *Zhaofeng Wu et al.* EMNLP 2024. [[Paper](https://arxiv.org/pdf/2404.12318)]
+       
+8. "**The Language Barrier: Dissecting Safety Challenges of LLMs in Multilingual Contexts**".
+    
+     *Lingfeng Shen et al.* ACL Findings 2024. [[Paper](https://aclanthology.org/2024.findings-acl.156/)] [[Github](https://github.com/shadowkiller33/Language_attack)]
+    
+#### Multilingual Tuning Augmented by Cross-Lingual Alignment
+    
+##### Translation-Assisted Tuning
+    
+1. "**Empowering Cross-lingual Abilities of Instruction-tuned Large Language Models by Translation-following demonstrations**".
+    
+     *Leonardo Ranaldi et al.* ACL Findings 2024. [[Paper](https://arxiv.org/pdf/2308.14186)] [[Github](https://github.com/lranaldii/CrossAlpaca)]
+       
+2. "**Extrapolating Large Language Models to Non-English by Aligning Languages**".
+    
+    *Wenhao Zhu et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2308.04948)]
+       
+3. "**The Power of Question Translation Training in Multilingual Reasoning: Broadened Scope and Deepened Insights**".
+    
+     *Wenhao Zhu et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2405.01345)]
+       
+4. "**Question Translation Training for Better Multilingual Reasoning**".
+    
+     *Wenhao Zhu et al.* ACL 2024 Findings. [[Paper](https://aclanthology.org/2024.findings-acl.498.pdf)] [[Github](https://github.com/NJUNLP/QAlign)]
+       
+5. "**BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models**".
+    
+    *Shaolei Zhang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2306.10968)] [[Github](https://github.com/ictnlp/BayLing)]
+       
+6. "**InstructAlign: High-and-Low Resource Language Alignment via Continual Crosslingual Instruction Tuning**".
+    
+    *Samuel Cahyawijaya et al.* SEALP 2023. [[Paper](https://aclanthology.org/2023.sealp-1.5.pdf)]
+    
+##### Cross-Lingual Tuning
+    
+1. "**xCoT: Cross-lingual Instruction Tuning for Cross-lingual Chain-of-Thought Reasoning**".
+    
+    *Linzheng Chai et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2401.07037)]
+    
+2. "**PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning**".
+    
+    *Zhihan Zhang et al.* ACL 2024. [[Paper](https://aclanthology.org/2024.acl-long.379.pdf)] [[Github](https://github.com/ytyz1307zzh/PLUG)]
+    
+3. "**TaCo: Enhancing Cross-Lingual Transfer for Low-Resource Languages in LLMs through Translation-Assisted Chain-of-Thought Processes**".
+    
+    *Bibek Upadhayay et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2311.10797)] [[Github](https://github.com/UNHSAILLab/TaCo)]
+    
+4. "**MAPO: Advancing Multilingual Reasoning through Multilingual Alignment-as-Preference Optimization**".
+    
+    *Shuaijie She et al.* ACL 2024. [[Paper](https://aclanthology.org/2024.acl-long.539.pdf)] [[Github](https://github.com/NJUNLP/MAPO)]
+    
+#### Enhancement of Specific Multilingual Abilities
+    
+##### Adaptation to New Languages
+    
+1. "**Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca**".
+    
+    *Yiming Cui et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2304.08177)] [[Github](https://github.com/ymcui/Chinese-LLaMA-Alpaca)]
+       
+2. "**Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models**".
+    
+    *Seungduk Kim et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.14714)]
+       
+3. "**Continual Pre-Training for Cross-Lingual LLM Adaptation: Enhancing Japanese Language Capabilities**".
+    
+     *Kazuki Fujii et al.* COLM 2024. [[Paper](https://arxiv.org/pdf/2404.17790)]
+       
+4. "**MaLA-500: Massive Language Adaptation of Large Language Models**".
+    
+    *Peiqin Lin et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2401.13303)]
+       
+5. "**SeaLLMs -- Large Language Models for Southeast Asia**".
+    
+    *Xuan-Phi Nguyen et al.* ACL 2024 DEMO TRACK. [[Paper](https://arxiv.org/pdf/2312.00738)] [[Github](https://github.com/DAMO-NLP-SG/SeaLLMs)]
+       
+6. "**LangBridge: Multilingual Reasoning Without Multilingual Supervision**".
+    
+    *Dongkeun Yoon et al.* ACL 2024. [[Paper](https://aclanthology.org/2024.acl-long.405.pdf)] [[Github](https://github.com/kaistAI/LangBridge)]
+       
+7. "**RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models via Romanization**".
+    
+    *Jaavid Aktar Husain et al.* ACL 2024. [[Paper](https://aclanthology.org/2024.acl-long.833.pdf)] [[Github](https://github.com/AI4Bharat/romansetu)]
+       
+8. "**BLOOM+1: Adding Language Support to BLOOM for Zero-Shot Prompting**".
+    
+    *Zheng Xin Yong et al.* ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.653.pdf)] [[Github](https://github.com/bigscience-workshop/multilingual-modeling)]
+       
+9. "**LLaMA Beyond English: An Empirical Study on Language Capability Transfer**".
+    
+    *Jun Zhao et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2401.01055)]
+    
+10. "**Rethinking LLM language adaptation: A case study on chinese mixtral**".
+    
+    *Yiming Cui et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2403.01851)] [[Github](https://github.com/ymcui/Chinese-Mixtral)]
+        
+##### Machine Translation
+    
+1. "**Towards Robust In-Context Learning for Machine Translation with Large Language Models**".
+    
+    *Shaolin Zhu et al.* LREC 2024. [[Paper](https://aclanthology.org/2024.lrec-main.1444.pdf)]
+    
+2. "**LANDeRMT: Dectecting and Routing Language-Aware Neurons for Selectively Finetuning LLMs to Machine Translation**".
+    
+    *Shaolin Zhu et al.* ACL 2024. [[Paper](https://aclanthology.org/2024.acl-long.656.pdf)]
+    
+3. "**FEDS-ICL: Enhancing translation ability and efficiency of large language model by optimizing demonstration selection**".
+    
+    *Shaolin Zhu et al.* Information Processing & Management 2024. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001845)]
+    
+4. "**Efficiently Exploring Large Language Models for Document-Level Machine Translation with In-context Learning**".
+    
+    *Menglong Cui et al.* ACL 2024 Findings. [[Paper](https://aclanthology.org/2024.findings-acl.646.pdf)]
+      
+5. "**DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms**".
+    
+    *Andong Chen et al.* ACL 2024. [[Paper](https://aclanthology.org/2024.acl-short.64.pdf)] [[Github](https://github.com/loulianzhang/Dual-Reflect)]
+    
+6. "**Paying More Attention to Source Context: Mitigating Unfaithful Translations from Large Language Model**".
+    
+    *Hongbin Zhang et al.* ACL 2024 Findings. [[Paper](https://aclanthology.org/2024.findings-acl.821.pdf)] [[Github](https://github.com/AzureStarz/paying_attention_to_the_source)]
+    
+7. "**BigTranslate: Augmenting Large Language Models with Multilingual Translation Capability over 100 Languages**".
+    
+    *Wen Yang et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2305.18098)] [[Github](https://github.com/ZNLP/BigTranslate)]
+    
+8. "**A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models**".
+    
+    *Haoran Xu et al.* ICLR 2024. [[Paper](https://openreview.net/pdf?id=farT6XXntP)] [[Github](https://github.com/fe1ixxu/ALMA)
+    
+9. "**Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions**".
+    
+    *Jiahuan Li et al.* TACL 2024. [[Paper](https://aclanthology.org/2024.tacl-1.32)]
+    
+10. "**Fine-Tuning Large Language Models to Translate: Will a Touch of Noisy Data in Misaligned Languages Suffice?**".
+    
+    *Dawei Zhu et al.* EMNLP 2024. [[Paper](https://aclanthology.org/2024.emnlp-main.24.pdf)] [[Github](https://github.com/uds-lsv/mt-sft)]
+    
+11. "**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**".
+    
+    *Haoran Xu et al.* ICML 2024. [[Paper](https://arxiv.org/pdf/2401.08417)] [[Github](https://github.com/fe1ixxu/ALMA)]
+    
+12. "**Advancing Translation Preference Modeling with RLHF: A Step Towards Cost-Effective Solution**".
+    
+    *Nuo Xu et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.11525)]
+    
+13. "**Word Alignment as Preference for Machine Translation**".
+    
+    *Qiyu Wu et al.* EMNLP 2024. [[Paper](https://aclanthology.org/2024.emnlp-main.188.pdf)]
+    
+14. "**Teaching Large Language Models to Translate with Comparison**".
+    
+    *Jiali Zeng et al.* AAAI 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29920/31609)] [[Github](https://github.com/lemon0830/TIM)]
+    
+15. "**Improving Translation Faithfulness of Large Language Models via Augmenting Instructions**".
+    
+    *Yijie Chen et al.* arXiv 2023. [[Paper](https://arxiv.org/pdf/2308.12674)] [[Github](https://github.com/pppa2019/swie_overmiss_llm4mt)]
+        
+16. "**Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models**".
+    
+    *Pengzhi Gao et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2401.05861)] [[Github](https://github.com/gpengzhi/CrossConST-LLM)
+    
+17. "**Tuning LLMs with Contrastive Alignment Instructions for Machine Translation in Unseen, Low-resource Languages**".
+    
+    *Zhuoyuan Mao et al.* LoResMT 2024. [[Paper](https://aclanthology.org/2024.loresmt-1.1.pdf)]
+    
+18. "**Relay Decoding: Concatenating Large Language Models for Machine Translation**".
+    
+    *Chengpeng Fu et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2405.02933)]
+    
+19. "**m3P: Towards Multimodal Multilingual Translation with Multimodal Prompt**".
+    
+    *Jian Yang et al.* LREC 2024. [[Paper](https://aclanthology.org/2024.lrec-main.948.pdf)] [[Huggingface](https://huggingface.co/datasets/CSJianYang/InstrMulti102)]
+    
+##### Cultural Adaptation
+    
+1. "**CultureLLM: Incorporating Cultural Differences into Large Language Models**".
+    
+    *Cheng Li et al.* NeurIPS 2024. [[Paper](https://openreview.net/pdf?id=sIsbOkQmBL)] [[Github](https://github.com/Scarelette/CultureLLM)]
+    
+2. "**CulturePark: Boosting Cross-cultural Understanding in Large Language Models**".
+    
+    *Cheng Li et al.* NeurIPS 2024. [[Paper](https://openreview.net/pdf?id=bIFHHf2RoD)][[Github](https://github.com/Scarelette/CulturePark)]
+    
+3. "**Self-Pluralising Culture Alignment for Large Language Models**".
+    
+    *Shaoyang Xu et al.* arXiv 2024. [[Paper](https://arxiv.org/pdf/2410.12971)] [[Github](https://github.com/shaoyangxu/CultureSPA)]
+    
+4. "**Global Gallery: The Fine Art of Painting Culture Portraits through Multilingual Instruction Tuning**".
+    
+    *Anjishnu Mukherjee et al.* NAACL 2024. [[Paper](https://aclanthology.org/2024.naacl-long.355.pdf)] [[Github](https://github.com/iamshnoo/culture-llm)]
+    
+5. "**The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning**".
+    
+    *Rochelle Choenni et al.* ACL 2024. [[Paper](https://aclanthology.org/2024.acl-long.803.pdf)]
+    
+6. "**CRAFT: Extracting and Tuning Cultural Instructions from the Wild**".
+    
+    *Bin Wang et al.* ACL 2024 Workshop - C3NLP. [[Paper](https://aclanthology.org/2024.c3nlp-1.4.pdf)] [[Github](https://github.com/SeaEval/CRAFT)]
+
 ### Multilingual Evaluation
 
 #### Tokenizer Evaluation
