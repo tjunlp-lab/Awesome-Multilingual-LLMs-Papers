@@ -1,6 +1,6 @@
 ﻿# Awesome-Multilingual-LLMs-Papers
 
-This repository contains list of papers according to [our survey](https://arxiv.org/pdf/2310.19736.pdf):
+This repository contains list of papers according to [our survey](https://arxiv.org/pdf/2411.11072v2):
 
 <p align="center"><strong>Multilingual Large Language Models: A Systematic Survey</strong></p>
 
