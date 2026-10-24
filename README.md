@@ -444,6 +444,10 @@ This repository contains list of papers according to [our survey](https://arxiv.
     
     *Jian Yang et al.* LREC 2024. [[Paper](https://aclanthology.org/2024.lrec-main.948.pdf)] [[Huggingface](https://huggingface.co/datasets/CSJianYang/InstrMulti102)]
     
+20. "**Translate-and-Revise: Boosting Large Language Models for Constrained Translation**".
+    
+    *Pengcheng Huang et al.* CCL 2024. [[Paper](https://aclanthology.org/2024.ccl-1.82.pdf)] [[Project](https://passionate11.github.io/Translate-and-Revise-project-page/)]
+    
 ##### Cultural Adaptation
     
 1. "**CultureLLM: Incorporating Cultural Differences into Large Language Models**".
